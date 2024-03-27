@@ -19,3 +19,6 @@
 - 🎨CSS
 - 🖌️figma
 
+# Demonstração do projeto
+
+![Imagem](./trab_leo.png)
